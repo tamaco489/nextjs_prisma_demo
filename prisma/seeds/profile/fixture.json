@@ -1,0 +1,34 @@
+[
+  {
+    "user_id": 1,
+    "first_name": "太郎",
+    "last_name": "田中",
+    "first_name_roman": "Taro",
+    "last_name_roman": "Tanaka",
+    "birth_date": "1990-01-01"
+  },
+  {
+    "user_id": 2,
+    "first_name": "次郎",
+    "last_name": "鈴木",
+    "first_name_roman": "Jiro",
+    "last_name_roman": "Suzuki",
+    "birth_date": "1992-05-15"
+  },
+  {
+    "user_id": 3,
+    "first_name": "花子",
+    "last_name": "佐藤",
+    "first_name_roman": "Hanako",
+    "last_name_roman": "Sato",
+    "birth_date": "1985-08-20"
+  },
+  {
+    "user_id": 4,
+    "first_name": "一郎",
+    "last_name": "高橋",
+    "first_name_roman": "Ichiro",
+    "last_name_roman": "Takahashi",
+    "birth_date": "1998-12-30"
+  }
+]

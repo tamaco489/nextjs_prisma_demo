@@ -1,0 +1,22 @@
+[
+  {
+    "auth0_user_id": "ssm|user1",
+    "email": "user1@example.com",
+    "ekyc_status": "approved"
+  },
+  {
+    "auth0_user_id": "ssm|user2",
+    "email": "user2@example.com",
+    "ekyc_status": "reviewing"
+  },
+  {
+    "auth0_user_id": "ssm|user3",
+    "email": "user3@example.com",
+    "ekyc_status": "not_submitted"
+  },
+  {
+    "auth0_user_id": "ssm|user4",
+    "email": "user4@example.com",
+    "ekyc_status": "rejected"
+  }
+]

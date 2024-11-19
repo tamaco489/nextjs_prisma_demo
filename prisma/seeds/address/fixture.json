@@ -1,0 +1,34 @@
+[
+  {
+    "user_id": 1,
+    "zip_code": "1234567",
+    "prefecture": "東京都",
+    "city": "渋谷区",
+    "street": "道玄坂1丁目",
+    "other": "渋谷ヒカリエビル 15F"
+  },
+  {
+    "user_id": 2,
+    "zip_code": "2345678",
+    "prefecture": "大阪府",
+    "city": "大阪市北区",
+    "street": "梅田3丁目",
+    "other": "グランフロント大阪"
+  },
+  {
+    "user_id": 3,
+    "zip_code": "3456789",
+    "prefecture": "京都府",
+    "city": "京都市中京区",
+    "street": "四条通東洞院西入ル",
+    "other": "京都オフィス 8F"
+  },
+  {
+    "user_id": 4,
+    "zip_code": "4567890",
+    "prefecture": "福岡県",
+    "city": "福岡市中央区",
+    "street": "天神1丁目",
+    "other": "アクロス福岡ビル 3F"
+  }
+]
